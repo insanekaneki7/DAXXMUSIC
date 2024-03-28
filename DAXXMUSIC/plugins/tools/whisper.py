@@ -88,7 +88,7 @@ async def whispes_cb(_, query):
         except Unauthorized:
             pass
         
-        return await query.answer("This whisper is not for you 🚧", show_alert=True)
+        return await query.answer("This whisper is not for you ❌", show_alert=True)
     
     search_msg = f"{from_user}_{to_user}"
     
