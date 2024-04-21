@@ -71,7 +71,7 @@ InlineKeyboardButton("⚡𝘾HAT⚡", url=f"https://t.me/insanesociety"),
     reply_markup = InlineKeyboardMarkup(buttons)
     
     await msg.reply_photo(
-        photo="https://graph.org/file/3d14823d8e765c1d8a01b.jpg",
+        photo="https://graph.org/file/9bd66462402feb557a928.png",
         caption=start_txt,
         reply_markup=reply_markup
     )
