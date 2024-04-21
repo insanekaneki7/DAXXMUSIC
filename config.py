@@ -16,11 +16,11 @@ BOT_TOKEN = getenv("BOT_TOKEN")
 # -------------------------------------------------------
 OWNER_USERNAME = getenv("OWNER_USERNAME","abtkaneki")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME" , "insanemusicbot")
+BOT_USERNAME = getenv("BOT_USERNAME" , "dazaiprobot")
 # --------------------------------------------------------
 BOT_NAME = getenv("BOT_NAME" , "akeno")
 # ---------------------------------------------------------
-ASSUSERNAME = getenv("ASSUSERNAME" , "insanemusiccbot")
+ASSUSERNAME = getenv("ASSUSERNAME" , "dazaiprobot")
 # ---------------------------------------------------------
 
 
@@ -35,10 +35,10 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
 # ----------------------------------------------------------------
 
 # ----------------------------------------------------------------
-LOGGER_ID = int(getenv("LOGGER_ID", -1001919135283))
+LOGGER_ID = int(getenv("LOGGER_ID", --1002093059683))
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
-OWNER_ID = int(getenv("OWNER_ID", 6664582540))
+OWNER_ID = int(getenv("OWNER_ID", 6624008600))
 # -----------------------------------------------------------------
 # -----------------------------------------------------------------
 
@@ -67,8 +67,8 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/INSANE_NETWORK")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/insanesociety")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/insaneupdate")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/dazaiisupport")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
