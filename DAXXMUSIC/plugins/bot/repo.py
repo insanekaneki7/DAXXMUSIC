@@ -29,42 +29,42 @@ start_txt = """**
 async def start(_, msg):
     buttons = [
         [ 
-          InlineKeyboardButton("𝗔𝗗𝗗 𝗠𝗘", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")
+          InlineKeyboardButton("🥂𝘼𝘿𝘿 𝙈𝙀 𝘽𝘼𝘽𝙔😎", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")
         ],
         [
-          InlineKeyboardButton("𝗛𝗘𝗟𝗣", url="https://t.me/insanerepo"),
-          InlineKeyboardButton("𝗢𝗪𝗡𝗘𝗥", url="https://t.me/abtkaneki"),
+          InlineKeyboardButton("⚡𝙃𝙀𝙇𝙋⚡", url="https://t.me/insaneupdate"),
+          InlineKeyboardButton("⚡𝙊𝙒𝙉𝙀𝙍⚡", url="https://t.me/abtkaneki"),
           ],
                [
-                InlineKeyboardButton("𝗟𝗜𝗩𝗘 𝗖𝗖", url="https://t.me/insanerepo"),
+                InlineKeyboardButton("⚡𝘿𝙀𝙑⚡", url="https://t.me/Oghoneyy"),
 
 ],
 [
-              InlineKeyboardButton("𝗕𝗔𝗡 𝗔𝗟𝗟︎", url=f"https://t.me/insanerepo"),
-              InlineKeyboardButton("︎𝗠𝗨𝗦𝗜𝗖", url=f"https://t.me/insanerepo"),
+              InlineKeyboardButton("⚡𝘽𝘼𝙉𝘼𝙇𝙇⚡", url=f"https://t.me/insanebanall_bot?startgroup=true"),
+              InlineKeyboardButton("︎⚡𝙈𝙐𝙎𝙄𝘾⚡", url=f"https://t.me/Kavyaa_music_bot?startgroup=true"),
               ],
               [
-              InlineKeyboardButton("𝗠𝗔𝗡𝗔𝗚𝗘𝗠𝗘𝗡𝗧︎", url=f"https://t.me/insanerepo"),
-InlineKeyboardButton("𝗖𝗛𝗔𝗧 𝗕𝗢𝗧", url=f"https://t.me/insanerepo"),
+              InlineKeyboardButton("⚡𝙈𝘼𝙉𝘼𝙂𝙀𝙈𝙀𝙉𝙏⚡", url=f"https://t.me/insanemanager_bot?startgroup=true"),
+InlineKeyboardButton("⚡𝘾𝙊𝙋𝙔𝙍𝙄𝙂𝙃𝙏⚡", url=f"https://t.me/insanecopyright_bot?startgroup=true"),
 ],
 [
-InlineKeyboardButton("𝗦𝗧𝗥𝗜𝗡𝗚𝗕𝗢𝗧", url=f"https://t.me/insanerepo"),
-InlineKeyboardButton("𝗖𝗛𝗔𝗧𝗚𝗣𝗧", url=f"https://t.me/insanerepo"),
+InlineKeyboardButton("⚡𝘾𝙊 𝙊𝙒𝙉 𝘽𝙊𝙏⚡", url=f"https://t.me/insanerepo"),
+InlineKeyboardButton("⚡𝙉𝙀𝙏𝙒𝙊𝙍𝙆⚡", url=f"https://t.me/INSANE_NETWORK"),
 ],
 [
-              InlineKeyboardButton("𝗩𝗣𝗦", url=f"https://t.me/insanerepo"),
-              InlineKeyboardButton("𝗠𝗢𝗩𝗜𝗘︎", url=f"https://t.me/insanerepo"),
+              InlineKeyboardButton("⚡𝙑𝙎𝘾⚡", url=f"https://t.me/insanerepo"),
+              InlineKeyboardButton("⚡𝙈𝘼𝙄𝙉 𝘾𝙃𝘼𝙏⚡", url=f"https://t.me/insanesociety"),
               ],
               [
-              InlineKeyboardButton("𝗦𝗧𝗥𝗜𝗡𝗚 𝗛𝗔𝗖𝗞︎", url=f"https://t.me/insanerepo"),
-InlineKeyboardButton("𝗜𝗗 𝗖𝗛𝗔𝗧 𝗕𝗢𝗧", url=f"https://t.me/insanerepo"),
+              InlineKeyboardButton("⚡𝙎𝙏𝙍𝙄𝙉𝙂⚡", url=f"https://t.me/Honey_stringgenbot?startgroup=true"),
+InlineKeyboardButton("⚡𝙒𝘼𝙄𝙁𝙐𝙎", url=f"https://t.me/insanegrabber_bot?startgroup=true"),
 ],
 [
-InlineKeyboardButton("𝗨𝗦𝗘𝗥𝗕𝗢𝗧", url=f"https://t.me/insanerepo"),
-InlineKeyboardButton("𝗦𝗘𝗔𝗥𝗖𝗛𝗕𝗢𝗧", url=f"https://t.me/insanerepo"),
+InlineKeyboardButton("⚡𝙏𝙀𝙍𝙈𝙄𝙉𝘼𝙏𝙀𝙍𝙎", url=f"https://t.me/insanedestroyer"),
+InlineKeyboardButton("⚡𝙋𝙍𝙀𝘿𝘼𝙏𝙊𝙍⚡", url=f"https://t.me/Predatorcopyright"),
 ],
 [
-InlineKeyboardButton("𝗖𝗖 𝗕𝗢𝗧", url=f"https://t.me/insanerepo"),
+InlineKeyboardButton("⚡𝘾HAT⚡", url=f"https://t.me/insanesociety"),
 
         ]]
     
