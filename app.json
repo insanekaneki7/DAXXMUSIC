@@ -13,17 +13,17 @@
     ],
     "env": {
       "API_ID": {
-        "description": "23453289",
+        "description": "",
         "value": "",
         "required": true
       },
       "API_HASH": {
-        "description": "b3ab35d055307541bec7d338f994f60c",
+        "description": "",
         "value": "",
         "required": true
       },
       "BOT_TOKEN": {
-        "description": "7887003511:AAGe6oGtMppnFYxnVxuLvP-uMXUK3ibObU0",
+        "description": "",
         "value": "",
         "required": true
       },
@@ -38,7 +38,7 @@
         "required": true
       },
       "STRING_SESSION": {
-        "description": "BQFl3mkAhs5-ZQVGdADaALzoNAKDQyoMR2hE_zUq2ExNdb-k6Zl6JcDBY8N3-rPVxeoSZ-bqizxeXCbR0veMtMUdY1G2EEd3jm8lwiD8zUOTUAhwXbPC_ySRs6vVSG75fSf-k17Q4tACEydDOvILRDZ1wHZhgVJZwksoMfr5IfSwNnJC4mLcnd2fAnvfZGAHTzJhO_NeseoDviLvqWmjBu5oROHoJHr1FC2BtJnrtvdO6UVx7eXdfoTzfgHIgQNwt8arwrxIXFFDIMTPGHTJvZJYKaTAfBoiqCBgbH3jbDaPqaEHFaqjCwjTe3szS8BAo3LRy-Zl-CW2LOuxOrfwbo60-PwGyAAAAAGmBC-UAA.",
+        "description": ".",
         "value": "",
         "required": true
       },
